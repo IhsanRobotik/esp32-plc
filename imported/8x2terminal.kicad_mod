@@ -7085,10 +7085,10 @@
 		(end 96.1 7.7)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "Margin")
+		(layer "F.CrtYd")
 		(uuid "86fb9da6-f221-4ee9-9ebc-466c814a8e61")
 	)
 	(fp_text user ""
